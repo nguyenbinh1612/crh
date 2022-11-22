@@ -1,7 +1,7 @@
 # Works Cited:
 
-Bezverkha, Anastasia. “Reinstating social borders between the Slavic majority and the Tatar population of Crimea: Media representation of the contested memory of the Crimean Tatars’ deportation.” Journal of Borderlands Studies 32.2, 2017, pp. 127-139.
-Glyn Williams, Brian. “The Hidden Ethnic Cleansing of Muslims in the Soviet Union: The Exile and Repatriation of the Crimean Tatars.” Journal of Contemporary History 37.3, 2002, pp. 323-347.
+<p> Bezverkha, Anastasia. “Reinstating social borders between the Slavic majority and the Tatar population of Crimea: Media representation of the contested memory of the Crimean Tatars’ deportation.” Journal of Borderlands Studies 32.2, 2017, pp. 127-139. </p>
+<p> Glyn Williams, Brian. “The Hidden Ethnic Cleansing of Muslims in the Soviet Union: The Exile and Repatriation of the Crimean Tatars.” Journal of Contemporary History 37.3, 2002, pp. 323-347. </p>
 Hall, Nancy. “Vowel Epenthesis.” The Blackwell Companion to Phonology Volume III: Phonological Processes, Wiley-Blackwell, 2011, pp. 1-21.
 Henry, Cassidy. “An Optimality Theoretic analysis of vowel harmony in Kazan Tatar.” Proceedings of the Linguistic Society of America 3.4, 2018, pp. 1-11.
 Johanson, Lars. “The Structure of Turkic.” The Turkic Languages, edited by Lars Johanson and Éva Á Csató, Taylor & Francis Group, 1998, pp. 30-66.
